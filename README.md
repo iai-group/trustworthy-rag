@@ -31,7 +31,7 @@ The user study was conducted on **Amazon Mechanical Turk (MTurk)** and consisted
 1. A **qualification task** assessing participants’ comprehension.
 2. The **main user trust study** comparing reliable vs. unreliable responses across explanation types.
 
-Screenshots of both interfaces are available in [`study_design_screenshots/`](study_design_screenshots/) (see [README](study_design_screenshots/README.md)).
+Screenshots of both interfaces are available in [`user_study_design/`](user_study_design/) (see [README](user_study_design/README.md)).
 
 ## Results
 The processed outputs and aggregated statistics for the data collected in the user study can be found in:
