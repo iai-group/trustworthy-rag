@@ -1,4 +1,4 @@
-# Study Design Screenshots
+# User Study Design
 
 This folder contains visual materials illustrating the design of the **qualification task** and the **main user study** conducted on Amazon Mechanical Turk (MTurk):
 
