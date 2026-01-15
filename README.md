@@ -2,6 +2,10 @@
 
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
+This repository provides resources developed within the following article:
+
+> W. Łajewska and K. Balog. **Trust Me on This: A User Study of Trustworthiness for RAG Responses.** In: Proceedings of the 48th European Conference on Information Retrieval (ECIR ’26). Delft, The Netherlands. March 2026.
+
 ## Summary
 
 The integration of generative AI into information access systems often presents users with synthesized answers that lack transparency. This study investigates how different types of explanations can influence user trust in responses from retrieval-augmented generation systems. We conducted a controlled, two-stage user study where participants chose the more trustworthy response from a pair—one objectively more reliable than the other—both with and without one of three explanation types: (1) source attribution, (2) factual grounding, and (3) information coverage. Our results show that while explanations significantly guide users toward selecting more reliable information, trust is not dictated by objective quality alone: Users’ judgments are also heavily influenced by response clarity, actionability, and their own prior knowledge.
@@ -47,8 +51,18 @@ Key findings:
 
 ## Citation
 
-TODO
+If you use the resources presented in this repository, please cite:
+
+```
+@inproceedings{Lajewska:2026:ECIR,
+	author = {{\L}ajewska, Weronika and Balog, Krisztian},
+	title = {Trust Me on This: A User Study of Trustworthiness for RAG Responses},
+	year = {2026},
+	booktitle = {Proceedings of the 48th European Conference on Information Retrieval},
+	series = {ECIR '26}
+}
+```
 
 ## Contact
 
-TODO
+Should you have any questions, please contact `Weronika Łajewska` at `weronikalajewska`[AT]gmail.com (with [AT] replaced by @).
